@@ -61,9 +61,8 @@
 
 ![VID_20230406_112118_out.gif](assets/VID_20230406_112118_out.gif)
 
-### 6. 자율주행 기능
 
-[광주 SSAFY 특화 자율주행 (와따렌트)](https://youtu.be/zynzqoHcAv4)
+
 
 ---
 
